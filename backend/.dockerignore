@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# Docker
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+
+# Tests
+coverage
+*.test.js
+__tests__/
+
+# Build
+dist
+build
+
+# Docs
+README.md
+
+# Docker
+Dockerfile
+docker-compose.yml
